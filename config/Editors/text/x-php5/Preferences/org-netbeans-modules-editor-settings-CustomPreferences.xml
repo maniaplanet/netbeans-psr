@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.Boolean" name="alignMultilineMethodParams" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesAfterClass" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesAfterFunction" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesAfterOpenPHPTag" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesBeforeField" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="classDeclBracePlacement" xml:space="preserve">
+        <value><![CDATA[NEW_LINE]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-import" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-initial-comment" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-innerclass" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-javadoc" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-method" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="code-folding-collapse-tags" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="continuationIndentSize" xml:space="preserve">
+        <value><![CDATA[4]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="expand-tabs" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="groupAlignmentAssignment" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="methodDeclBracePlacement" xml:space="preserve">
+        <value><![CDATA[NEW_LINE]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="on-save-remove-trailing-whitespace" xml:space="preserve">
+        <value><![CDATA[modified-lines]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="on-save-use-global-settings" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpAutoCompletionFull" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpAutoCompletionNamespaces" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpAutoCompletionTypes" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpAutoCompletionVariables" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpCodeCompletionNonStaticMethods" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpCodeCompletionSmartParametersPreFilling" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="phpCodeCompletionStaticMethods" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="phpCodeCompletionType" xml:space="preserve">
+        <value><![CDATA[SMART]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="phpCodeCompletionVariablesScope" xml:space="preserve">
+        <value><![CDATA[ALL]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="spaceAroundStringConcatOps" xml:space="preserve">
+        <value><![CDATA[false]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapArrayInit" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapAssignOps" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapBinaryOps" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapChainedMethodCalls" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapExtendsImplementsList" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapIfStatement" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapMethodCallArgs" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapMethodParams" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="wrapTernaryOps" xml:space="preserve">
+        <value><![CDATA[WRAP_IF_LONG]]></value>
+    </entry>
+</editor-preferences>
