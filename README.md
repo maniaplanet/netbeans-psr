@@ -16,4 +16,4 @@ To automatically adjust your line ending to `LF`, you have to install the plugin
 
 ## Bugs and limitations
 
-See issues of the project.
+[See issues of the project](https://github.com/maniaplanet/netbeans-psr/issues).
